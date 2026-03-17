@@ -14,3 +14,5 @@ Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a 
 OUTPUT:
 
 RESULT: 
+Thus, the comparative analysis of diAerent types of prompting patterns and explain with 
+various test scenarios have been evaluated and presented in the observation table.
